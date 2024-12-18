@@ -129,7 +129,7 @@ python driver.py --infile ../examples/complex_input.txt --visualize
 ### Sample Visualization:
 Below is an example of a visualized tree diagram:
 
-![Tree Diagram](../examples/tree_diagram.png)
+![Tree Diagram](examples/tree_diagram.png)
 
 ---
 
