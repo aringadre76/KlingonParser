@@ -1,0 +1,56 @@
+(* Klingon Grammar in EBNF *)
+
+(* Nouns *)
+<noun> ::= <simple_noun> | <compound_noun> | <verb_suffix_noun>
+<simple_noun> ::= 
+<compound_noun> ::= <noun> "-" <noun>
+<verb_suffix_noun> ::= <verb> "-wI'" (* Verb plus suffix to form noun *)
+
+(* Verb-related Nouns *)
+<verb> ::= 
+
+(* Suffixes *)
+<noun_with_suffix> ::= <noun> <suffix>*
+<suffix> ::= <augmentative_suffix> | <diminutive_suffix> | <plural_suffix> | <possessive_suffix> | <syntactic_marker> | <other_suffix>
+<augmentative_suffix> ::= "-'a'" (* Augmentative suffix, indicating something is bigger or more important *)
+<diminutive_suffix> ::= "-Hom" (* Diminutive suffix, indicating something is smaller or less important *)
+<plural_suffix> ::= "-pu'" | "-Du'" | "-mey" (* Plural suffixes for beings capable of language, body parts, or general usage *)
+<possessive_suffix> ::= "-wIj" | "-maj" | "-Daj" | "-chaj" | "-wI'" | "-ra'" | "-raj" (* Add possessive variations *)
+<syntactic_marker> ::= "-Daq" | "-vo'" | "-mo'" | "-vaD" | "-'e'" (* Markers for location, direction, cause, beneficiary, or emphasis *)
+<other_suffix> ::= "-Hey" | "-na'" | "-oy" (* Other noun suffixes indicating apparent, definite, or endearment *)
+
+(* Sentence Structure *)
+<sentence> ::= <object> <verb_phrase> <subject>
+<verb_phrase> ::= <prefix> <verb> <verb_suffix>*
+<object> ::= <noun_with_suffix> | <noun>
+<subject> ::= <noun_with_suffix> | <noun>
+
+(* Verb Prefixes *)
+<prefix> ::= "jI-" | "bI-" | "ma-" | "Su-" | "mu-" | "vI-" | "qa-" | "Da-" | "nu-" | "wI-" | "DI-" (* Subject and object prefixes indicating who is doing what to whom *)
+
+(* Verb Suffixes *)
+<verb_suffix> ::= <type_1_suffix> | <type_2_suffix> | <type_3_suffix> | <type_4_suffix> | <type_5_suffix> | <type_6_suffix> | <type_7_suffix> | <honorific_suffix> | <syntactic_verb_suffix> | <rover_suffix>
+<type_1_suffix> ::= "-egh" | "-chuq" (* Oneself/One another *)
+<type_2_suffix> ::= "-nIS" | "-qang" | "-rup" | "-beH" (* Volition/Predisposition *)
+<type_3_suffix> ::= "-choH" | "-qa'" (* Change *)
+<type_4_suffix> ::= "-moH" (* Cause *)
+<type_5_suffix> ::= "-lu'" | "-laH" (* Ability/Indefinite Subject *)
+<type_6_suffix> ::= "-chu'" | "-bej" | "-law'" | "-ba'" (* Qualification *)
+<type_7_suffix> ::= "-pu'" | "-ta'" | "-taH" | "-lI'" (* Aspect indicating completeness or continuation *)
+<honorific_suffix> ::= "-neS" (* Honorific *)
+<syntactic_verb_suffix> ::= "-DI'" | "-chugh" | "-pa'" | "-vIS" | "-'a'" (* Syntactic markers *)
+<rover_suffix> ::= "-Ha'" | "-Qo'" | "-qu'" (* Rover suffixes that modify meaning and can appear in different positions *)
+
+(* Compound Sentences *)
+<compound_sentence> ::= <sentence> <conjunction> <sentence>
+<conjunction> ::= "'ej" | "'ach" | "qoj" | "pagh" (* Conjunctions for and, but, or *)
+
+(* Pronouns *)
+<pronoun> ::= "jIH" | "maH" | "soH" | "tlhIH" | "ghaH" | "chaH" | "'oH" | "bIH" (* Pronouns for different persons and numbers *)
+
+(* Numbers *)
+<number> ::= "wa'" | "cha'" | "wej" | "loS" | "vagh" | "jav" | "Soch" | "chorgh" | "Hut" | "wa'maH"
+<ordinal_number> ::= <number> "-DIch" (* Ordinals, e.g., wa'DIch (first), cha'DIch (second) *)
+
+(* Adverbials *)
+<adverbial> ::= "batlh" | "bong" | "chaq" | "chIch" | "DaH" | "Do'" | "tugh" (* Example adverbials for modifying verbs *)

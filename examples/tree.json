@@ -1,0 +1,81 @@
+{
+    "babton jI- `up -egh babton": {
+        "type": "non-terminal",
+        "rule:": "sentence",
+        "children": [
+            {
+                "type": "non-terminal",
+                "rule:": "modified_object",
+                "children": [
+                    {
+                        "type": "non-terminal",
+                        "rule:": "object",
+                        "children": [
+                            {
+                                "type": "non-terminal",
+                                "rule:": "noun",
+                                "children": [
+                                    {
+                                        "type": "non-terminal",
+                                        "rule:": "simple_noun",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "non-terminal",
+                "rule:": "verb_phrase",
+                "children": [
+                    {
+                        "type": "non-terminal",
+                        "rule:": "prefix",
+                        "children": []
+                    },
+                    {
+                        "type": "non-terminal",
+                        "rule:": "verb",
+                        "children": []
+                    },
+                    {
+                        "type": "non-terminal",
+                        "rule:": "verb_suffix",
+                        "children": [
+                            {
+                                "type": "non-terminal",
+                                "rule:": "type_1_suffix",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "non-terminal",
+                "rule:": "modified_post_sentence",
+                "children": [
+                    {
+                        "type": "non-terminal",
+                        "rule:": "subject",
+                        "children": [
+                            {
+                                "type": "non-terminal",
+                                "rule:": "noun",
+                                "children": [
+                                    {
+                                        "type": "non-terminal",
+                                        "rule:": "simple_noun",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

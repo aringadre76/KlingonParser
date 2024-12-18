@@ -1,0 +1,2564 @@
+Page 1:
+3. NOUNS
+$e
+
+There are various types of nouns in Klingon.
+
+3.1. Simple nouns
+
+Simple nouns, like simple nouns in English, are simple words;
+for example, DoS target or QIH destruction.
+
+3.2. Complex nouns
+
+Complex nouns, on the other hand, are made up of more than
+one part.
+
+3.2.1. Compound nouns
+
+Compound nouns consist of two or three nouns in a row,
+much like English earthworm (earth plus worm) or password
+(pass plus word). For example, jolpa’ transport room consists
+of jol transport beam plus pa’ room.
+
+3.2.2. Verb plus -wl’
+
+A second type of complex noun consists of a verb followed by
+a suffix meaning one who does or thing which does. The
+English suffix -er (as in builder “one who builds” or toaster
+“thing which toasts”) is a rough equivalent. In Klingon, the
+
+19
+
+Page 2:
+THE KLINGON DICTIONARY
+
+suffix is -wI’. It occurs, for example, in baHwI’ gunner, which
+consists of the verb baH fire (a torpedo) plus -wI’ one who
+does. Thus, baHwI’ is literally ‘one who fires [a torpedo].”
+Similarly, So’wI’ cloaking device comes from the verb So’
+cloak plus -wI’ thing which does. So’w!? is a “thing which
+cloaks.”
+
+A noun formed by adding -wI’ to a verb is a regular noun,
+so it may be used along with another noun to form a
+compound noun. For example, tIjwI’ghom boarding party
+comes from tIjwI’ boarder plus ghom group, and tljwI’ comes
+from tlj board plus -wI’.
+
+3.2.3. Other complex nouns
+
+There are a good many nouns in Klingon which are two or,
+less frequently, three syllables long, but which are not
+complex nouns of the types described above. These nouns
+probably at one time were formed by combining simple
+nouns, but one or all of the nouns forming the complex noun
+are no longer in use, so it is not possible (without extensive
+etymological research) to know what the individual pieces
+mean.
+
+For example, ’ejDo’ means starship. The syllable ’ej also
+occurs in ’ejyo’ Starfleet. There are, however, no known
+Klingon words ’ej, Do’, or yo’ that have anything to do with
+Starfleet, starships, the Federation, or space vehicles of any
+kind. It is quite likely that Do’ is an Old Klingon word for
+space vessel (the modern Klingon word is Duj) that is used
+nowhere except in the noun ’ejDo’. Of course, without
+further study, that remains pure conjecture.
+
+3.3. Suffixes
+
+All nouns, whether simple or complex, may be followed by
+one or more suffixes. If there are two or more suffixes, the
+suffixes must occur in a specific order. Suffixes may be
+classified on the basis of their relative order after the noun.
+There are five types of suffixes (which, for convenience, will
+be numbered 1 through 5). Suffixes of Type 1 come right after
+the noun; suffixes of Type 2 come after those of Type 1;
+suffixes of Type 5 come last. This may be illustrated as
+follows:
+
+20
+
+Page 3:
+NOUNS
+NOUN-1-2-3-4-5
+
+Of course, if no suffix of Type 1 is used but a suffix of Type 2 is
+used, the Type 2 suffix comes right after the noun. If a suffix
+of Type 5 is the only suffix used, it comes right after the noun.
+Only when two or more suffixes are used does their order
+become apparent.
+
+There are at least two suffixes in each suffix type. Only one
+suffix of each type may be used at a time. That is, a noun
+cannot be followed by, for example, two or three Type 4
+suffixes.
+
+The members of each suffix type are as follows.
+
+3.3.1. Type 1: Augmentative/diminutive
+-’a’ augmentative
+This suffix indicates that what the noun refers to is bigger,
+
+more important, or more powerful than it would be without
+the suffix.
+
+SuS wind, breeze SuS’a’ strong wind
+Qagh mistake Qagh’a’ major blunder
+woQ power woQ’a’ ultimate power
+
+-Hom diminutive
+
+This is the opposite of the augmentative suffix. It indicates
+that what the noun refers to is smaller, less important, or less
+powerful than it would be without the suffix.
+
+SuS wind, breeze SuSHom wisp of air
+roj peace rojHom truce, temporary peace
+
+3.3.2. Type 2: Number
+
+As in English, a singular noun in Klingon has no specific suffix
+indicating that it is singular: nuH weapon refers to a single
+weapon of any type. Unlike English, however, the lack of a
+specific suffix for plural does not always indicate that the noun
+is singular. In Klingon, a noun without a plural suffix may still
+refer to more than one entity. The plurality is indicated by a
+
+21
+
+Page 4:
+THE KLINGON DICTIONARY
+
+pronoun, whether a verb prefix (see section 4.1) or a full word
+
+(section 5.1), or by context. For example, yaS officer may
+
+refer to a single officer or to a group of officers, depending on
+
+other words in the sentence or the context of the discussion.
+Compare:
+
+yaS vImojpu’ J became an officer.
+yaS Dimojpu’ We became officers.
+
+yaS jIH I am an officer.
+yaS maH We are officers.
+
+In the first pair of sentences, the only difference is the verb
+prefix (here only partially described; see section 4.1): vI- J,
+DI- we. In the second pair, the pronouns are different: jIH J,
+maH we.
+
+Under certain circumstances, the only way to know wheth-
+er the noun refers to one or more than one entity is by
+context. Thus, yaS mojpu’ can be translated either he/she
+became an officer or they became officers. Those taking part in
+any discussion in which this sentence is used would presum-
+ably already know whom is being talked about, so they would
+also know whether he or she or they is the correct meaning.
+
+Fortunately for students of Klingon, it is never incorrect to
+add a plural suffix to a noun referring to more than one entity,
+even in those cases where it is unnecessary to do so. Accord-
+ingly, both yaS maH and yaSpu’ maH are correct, both
+meaning we are officers (-pu’ is a plural suffix). On the other
+hand, a plural suffix cannot be added to a noun referring to
+only one thing, even if pronouns are present in the sentence.
+In Klingon, yaSpu’ jIH J am officers is as incorrect as its
+English translation.
+
+There are three different plural suffixes in Klingon.
+
+-pu’ plural for beings capable of using language
+
+This suffix can be used to indicate plurality for Klingons,
+Terrans, Romulans, Vulcans, and so on, but not for lower
+animals of any kind, plants, inanimate objects, electromag-
+netic or other beams or waves, etc.
+
+22
+
+Page 5:
+NOUNS
+
+yaS officer yaSpu’ officers
+Duy emissary Duypw’ emissaries
+
+-Du’ plural for body parts
+
+This suffix is used when referring to body parts of those
+beings capable of using language as well as of any other
+animal.
+
+qam foot qamDu’ feet
+tihon nostril tlhonDu’ nostrils
+
+-mey plural, general usage
+This suffix is used to mark the plural of any noun.
+
+mID colony mIDmey colonies
+yuQ planet yuQmey planets
+
+It can also be used with nouns referring to beings capable of
+using language (those nouns which take -pu’). When it is so
+used, it adds a notion of ‘“‘scattered all about” to the meaning.
+Compare:
+
+puq child
+puqpu’ children
+puqmey children all over the place
+
+The suffix -mey cannot be used with body parts. It should
+be noted, however, that Klingon poets often violate this
+grammatical rule in order to evoke particular moods in their
+poetry. Thus, forms such as tlhonmey nostrils scattered all
+about do occur. Until the subtle nuances of such constructions
+are firmly grasped, however, it is suggested that students of
+Klingon stick to the rules.
+
+Finally, some nouns in Klingon are inherently or always
+plural in meaning, and therefore never take plural suffixes.
+
+ray’ targets
+23
+
+Page 6:
+THE KLINGON DICTIONARY
+
+cha torpedoes
+chuyDaH thrusters
+
+The singular counterparts of such words are utterly dis-
+tinct:
+
+DoS target
+peng torpedo
+vIj_ thruster
+
+The singular forms may take the -mey suffix, but the
+meaning always carries the ‘‘scattered all about” connotation:
+
+DoSmey targets scattered all about
+pengmey torpedoes all over the place
+
+Inherently plural nouns are treated grammatically as singu-
+lar nouns in that singular pronouns are used to refer to them
+(sections 4.1, 5.1). For example, in the sentence cha yIghuS
+Stand by torpedoes! or Get the torpedoes ready to be fired! the
+verb prefix yI-, an imperative prefix used for singular objects,
+must be used even though the object (cha torpedoes) has a
+plural meaning.
+
+3.3.3. Type 3: Qualification
+
+Suffixes of this type indicate the speaker’s attitude toward the
+noun, or how sure the speaker is that the noun is being used
+appropriately.
+
+-qoq so-called
+
+This suffix indicates that the noun is being used in a false or
+ironic fashion. Saying rojqoq so-called peace, rather than
+simply roj peace, indicates that the speaker does not really
+believe that peace is legitimate or likely to endure.
+
+-Hey apparent
+
+This suffix indicates that the speaker is pretty sure the
+object referred to by the noun is accurately described by the
+noun, but has some doubts. For example, if the scanner on a
+Klingon ship senses an object, and the officer reporting the
+presence of this object assumes, but is not yet sure, that the
+object is a vessel, he will probably refer to the object as
+DujHey an apparent vessel, rather than simply Duj vessel.
+
+24
+
+Page 7:
+NOUNS
+-na’ definite
+
+This is the counterpart of -Hey. It indicates that there is no
+doubt in the speaker’s mind as to the accuracy of his or her
+choice of words. Once the Klingon officer referred to above is
+sure that the object the scanner has found is a vessel, he might
+report the presence of Dujna’ a definite vessel, undoubtedly a
+vessel.
+
+3.3.4. Type 4: Possession/specification
+
+Type 4 is the largest class of noun suffixes. It consists of all the
+possessive suffixes, plus suffixes which can be translated as
+English this and that.
+
+The possessive suffixes are:
+
+-wlj my -maj our
+-lj your -raj your (plural)
+-Daj his, her, its -chaj their
+
+Thus, juH home occurs in juHwIj my home, juHllj your
+home, juHchaj their home, etc.
+
+When the noun being possessed refers to a being capable of
+using language, a special set of suffixes is used for first- and
+second-person possessors:
+
+-wl’ my -ma’ our
+-I’ your -ra’ your (plural)
+
+These suffixes occur in, for example, joHwI’ my lord and
+puqlI’ your child. It is grammatically correct to use the
+regular possessive suffixes with nouns referring to beings
+capable of speech (as in puqlIj your child), but such con-
+structions are considered derogatory; joHwlj for my lord
+borders on the taboo. Students of Klingon should bear this
+in mind.
+
+To indicate that one noun is the possessor of another noun
+(e.g., enemy’s weapon), no suffix is used. Instead, the two
+nouns are said in the order possessor—possessed: jagh nuH
+enemy’s weapon (literally, enemy weapon). This construction
+is also used for phrases translated by of the in English, such as
+weapon of the enemy. (See also section 3.4.)
+
+25
+
+Page 8:
+THE KLINGON DICTIONARY
+
+There are two suffixes indicating how close to the speaker
+the object referred to by the noun is.
+
+-vam this
+
+Like its English translation, this suffix indicates that the
+noun refers to an object which is nearby or which is the topic
+of the conversation.
+
+nuHvam this weapon (near me as I speak)
+yuQvam this planet (that we’ve been talking about)
+
+When used with a plural noun (one with a plural suffix or an
+inherently plural noun), -vam is translated these:
+
+nuHmeyvam these weapons
+-vetlh that
+
+This suffix indicates that the noun refers to an object which
+is not nearby or which is being brought up again as the topic
+of conversation.
+
+nuHvetlh that weapon (over there)
+yuQvetlh that planet (as opposed to the one we were just
+talking about)
+
+When used with a plural noun, -vetlh is translated those:
+
+nuHmeyvetlh those weapons
+
+There is no Klingon equivalent for English a, an, the. In
+translating from Klingon to English, one must use context as
+a guide to when to use a or an and when the. In this book, a or
+an and the are used in translations to make the English sound
+more natural.
+
+3.3.5. Type 5: Syntactic markers
+
+These suffixes indicate something about the function of the
+noun in the sentence. As in English, subjects and objects are
+normally indicated by the position of the noun or nouns in
+the sentence. The following two English sentences have the
+same words, but the sentences have different meanings due to
+the order of the words:
+
+Dogs chase cats.
+Cats chase dogs.
+
+26
+
+Page 9:
+NOUNS
+
+Subjects and objects in Klingon are likewise indicated by
+word order. This is described in section 6.1.
+
+In other instances, English indicates the function of nouns
+in a sentence by adding words, particularly prepositions. In
+the following English sentence, the word around before
+canaries indicates that the canaries are neither chasing nor
+being chased:
+
+Dogs chase cats around canaries.
+
+Similarly, in Klingon, nouns which indicate something
+other than subject or object usually must have some special
+indication of exactly what their function is. Unlike English,
+this is accomplished by using suffixes.
+
+-Daq locative
+
+This suffix indicates that something is happening (or has
+happened or will happen) in the vicinity of the noun to which
+it is attached. It is normally translated by an English preposi-
+tion: to, in, at, on. The exact translation is determined by the
+meaning of the whole sentence. For example, pa’Daq is pa’
+room plus the suffix -Daq. It may occur in sentences such as
+the following:
+
+pa’Daq jIHtaH I’m in the room.
+pa’Daq yljaH Go to the room!
+
+In the first sentence, jIH J is used in the sense of J am (see
+section 6.3), so in is the most reasonable translation of -Daq.
+In the second sentence, the verb is jaH go, so to makes the
+most sense as a translation of -Daq. An English preposition
+need not be part of the translation. Klingon Dung means area
+above, and DungDagq is overhead, literally something like ‘at
+the area above.”’ For further discussion on prepositional
+concepts, see section 3.4.
+
+It is worth noting at this point that the concepts expressed
+by the English adverbs here, there, and everywhere are
+expressed by nouns in Klingon: naDev hereabouts, pa’ there-
+abouts, Dat everywhere. These words may perhaps be trans-
+lated more literally as “‘area around here,” ‘‘area over there,”
+and “‘all places,” respectively. Unlike other nouns, these
+three words are never followed by the locative suffix. (Note
+
+27
+
+Page 10:
+THE KLINGON DICTIONARY
+
+that pa’ thereabouts and pa’ room are identical in sound;
+pa’Daq, however, can mean only in/to the room.)
+
+There are a few verbs whose meanings include locative
+notions, such as ghoS approach, proceed. The locative suffix
+need not be used on nouns which are the objects of such
+verbs.
+
+Duj ghoStaH It is approaching the ship.
+(Duj ship, vessel, ghoStaH it is
+approaching it)
+yuQ wighoStaH We are proceeding toward the planet.
+(yuQ planet, wighoStaH we are
+Proceeding toward it)
+
+If the locative suffix is used with such verbs, the resulting
+sentence is somewhat redundant, but not out-and-out wrong.
+
+DujDaq ghoStaH It is approaching toward the ship.
+
+-vo’ from
+
+This suffix is similar to -Daq but is used only when action is
+in a direction away from the noun suffixed with -vo’.
+
+pa’vo’ yIjaH Leave the room!
+
+A more literal translation of this sentence might be ‘“Go from
+the room.”
+
+-mo’ due to, because of
+This suffix occurs in sentences such as:
+SuSmo’ joqtaH It is fluttering in the breeze.
+
+The noun SuSmo’ means due to the breeze, so the whole
+sentence is literally “‘due to the breeze, it [a flag] is flutter-
+ing.”
+
+-vaD for, intended for
+
+This suffix indicates that the noun to which it is attached is
+in some way the beneficiary of the action, the person or thing
+for whom or for which the activity occurs.
+
+Qu’vaD IP De’vam This information is useful for
+the mission.
+
+28
+
+Page 11:
+NOUNS
+
+The noun Qu’vaD means for the mission, and in this sentence
+-vaD indicates that the information is intended to be used
+somehow for the mission under discussion.
+
+~’e’ topic
+
+This suffix emphasizes that the noun to which it is attached
+is the topic of the sentence. In English, this is frequently
+accomplished by stressing the noun (saying it emphatically) or
+by special syntactic constructions.
+
+lujpu’ jIH’e’ J, and only I, have failed.
+It is I who has failed.
+De’’e’ vitlhapnISpu’ J needed to get the INFORMATION.
+It was the information (and not
+something else) that I needed.
+
+Without the ’e’, these same sentences would have no noun
+singled out for emphasis:
+
+lujpu’ jIH J have failed.
+De’ vitlhapnISpu’ J needed to get the information.
+
+For a further use of -’e’, see section 6.3.
+
+3.3.6. Relative ordering of the suffixes
+
+As briefly illustrated in the discussion of -vam this and -vetlh
+that (section 3.3.4), when a noun is followed by more than
+one suffix, the suffixes must occur in the proper order,
+according to the classification just described. It is rare for a
+noun to be followed by five suffixes, but it does happen from
+time to time. Some examples of nouns with two or more
+suffixes follow. (Suffix types are indicated by numbers.)
+
+QaghHommeyHeylljmo’ due to your apparent minor errors
+
+Qagh (noun) error
+-Hom (1) diminutive
+-mey (2) plural
+-Hey (3) apparent
+-llj (4) your
+
+-mo’ (5) due to
+
+pa’wljDaq in my quarters
+pa’ (noun) room
+
+29
+
+Page 12:
+THE KLINGON DICTIONARY
+
+-wij (4) my
+-Daq (5) locative
+Duypu’qoqchaj their so-called emissaries
+Duy (noun) emissary
+-pu’ (2) plural
+-qoq (3) so-called
+-chaj (4) their
+qamDu’wljDaq at my feet
+gam (noun) foot
+-Du’ (2) plural
+“wij (4) my
+-Daq (5) locative
+rojHom’e’ the truce (as topic)
+roj (noun) peace
+-Hom (1) diminutive
+“e’ (5) topic
+
+All examples of suffixes given so far show only simple
+nouns. Suffixes are attached to complex nouns (section 3.2) in
+exactly the same fashion.
+
+DIvI’may’DujmeyDaq at/to the Federation battle cruisers
+
+DIvI’may’Duj (noun) Federation battle cruiser
+-mey (2) plural
+-Daq (5) locative
+baHwI’pu’vam these gunners
+baHwI’ (noun) gunner
+-pu’ (2) plural
+-vam (4) this
+
+3.4. The noun—noun construction
+
+Some combinations of two (or more) nouns in a row are so
+common as to have become everyday words. These are the
+compound nouns (as discussed in section 3.2.1). In addition,
+it is possible to combine nouns in the manner of a compound
+noun to produce a new construct even if it is not a legitimate
+compound noun (‘“‘legitimate” in the sense that it would be
+found in a dictionary).
+
+The translation of two nouns combined in this way, say
+
+30
+
+Page 13:
+NOUNS
+
+N1-N2 (that is, noun #1 followed by noun #2), would be N2
+of the N1. For example, nuH weapon and pegh secret combine
+to form nuH pegh secret of the weapon. An alternate transla-
+tion would be NI’s N2, in this case, the weapon’s secret. As
+discussed in section 3.3.4, this is the Klingon possessive
+construction for a noun possessed by another noun.
+
+When the noun-noun construction is used, only the second
+noun can take syntactic suffixes (Type 5). Both nouns,
+however, may take suffixes of the other four types. For
+example:
+
+nuHvam pegh secret of this weapon
+
+nuH (noun) weapon
+-vam (4) this
+pegh (noun) Secret
+jaghpu’ yoQmeyDaq at/to the enemies’ planets
+jagh (noun) enemy
+-pu’ (2) plural
+yuQ (noun) planet
+-mey (2) plural
+-Daq (5) locative
+puqwl’ qamDuw’ my child’s feet
+puq (noun) child
+-wl’ (4) my
+qam (noun) foot
+-Du (2) plural
+
+English prepositional phrases are also rendered in Klingon
+by this noun—noun construction. Prepositional concepts such
+as above and below are actually nouns in Klingon, best
+translated as ‘‘area above,” ‘‘area below,” etc. The locative
+suffix (section 3.3.5) follows the second noun. For example:
+
+nagh DungDaq above the rock
+
+nagh (noun) rock
+Dung (noun) area above
+-Daq (5) locative
+
+More literally, this is “‘at the area above the rock” or ‘‘at the
+rock’s above-area.””
+
+31
+
+Page 14:
+4. VERBS
+$$$ ea
+
+Klingon verbs are mostly monosyllabic forms which may
+be accompanied by several affixes. As with Klingon
+nouns, Klingon verbs may take suffixes falling into a number
+of types based on their relative position following the verb.
+There are nine types of verb suffixes. Unlike Klingon
+nouns, Klingon verbs may take prefixes. Thus, if suffix types
+are indicated as numbers, the structure of a Klingon verb
+is:
+PREFIX-VERB-1-—2-3-4—5-6-7-8-9
+
+4.1. Pronominal prefixes
+
+Each Klingon verb begins with a single prefix that indicates
+who or what is performing the action described by the verb
+and, when relevant, who or what is the recipient of that
+action. In other words, Klingon verb prefixes indicate both
+the subject and the object of the sentence.
+
+4.1.1. Basic prefixes
+
+The basic set of prefixes can be presented in a chart. (In order
+to make the chart as clear as possible, some prefixes are
+repeated.)
+
+Note that both the subject and the object are combined
+
+32
+
+Page 15:
+VERBS
+
+OBJECT none me you him/ us you them
+herlit (plural)
+SUBJECT
+I jl- - qa vi- - Sa- vI-
+you bI- cho- - Da-— ju- - Da-
+hel/shelit 0 mu Du 0 nu- II- 0
+we ma- -  pl-_ wi- - re- DI-
+you (plural) Su- tu- -  bo- che- - bo-
+they 0 mu- ni- lu nu II- 0
+
+into a single prefix. 0 in the chart means that the particular
+subject-object combinations are indicated by the absence of a
+prefix before the verb; — in the chart notes subject-object
+combinations which cannot be expressed with the Klingon
+verb prefix system. For such meanings, suffixes (section 4.2.1)
+and/or pronouns (section 5.1) must be used.
+
+The prefixes in the first column of the chart (headed
+“none’’) are used when there is no object; that is, when the
+action of the verb affects only the subject (the ‘doer”). The
+verb Qong sleep occurs with the pronominal prefixes as
+follows:
+
+jIQong J sleep
+
+bIQong you sleep
+
+Qong he/she/it sleeps, they sleep
+maQong we sleep
+
+SuQong you (plural) sleep
+
+In the case of Qong he/she/it sleeps, they sleep, the exact
+subject would be indicated elsewhere in the sentence or by
+context.
+
+This set of prefixes is also used when an object is possible,
+but unknown or vague. Thus, jlyaj J understand can be used
+
+33
+
+Page 16:
+THE KLINGON DICTIONARY
+
+when the speaker understands things in general, knows what
+is going on, or understands what another speaker has just
+said. It cannot, however, be used for understanding a lan-
+guage or understanding a person. Similarly, maSop we eat can
+be used to indicate a general act of eating, but not if a specific
+food is mentioned.
+
+The remaining prefixes combine subject and object. Some
+of them are illustrated below, using the verb legh see.
+
+qalegh I see you cholegh you see me
+vilegh I see him/herlit/ mulegh he/she/it sees me,
+them they see me
+
+Salegh I see you (plural) tulegh you (plural) see me
+
+Dalegh you see him/her/ Dulegh he/she/it sees you
+
+itthem
+julegh you see us pllegh we see you
+legh he/shel/it sees lulegh they see him/herlit
+himlherlit/them,
+
+they see them
+
+4.1.2 Imperative prefixes
+
+A special set of prefixes is used for imperatives, that is, verbs
+giving commands. Commands can be given only to you or you
+(plural).
+
+OBJECT none me him|herlit us them
+you yl- HI- yl- gho- tI-
+you (plural) pe- HI- yl- gho- tl-
+
+Note that, with one exception, the identical prefix is used
+regardless of whether the command is being given to one or
+more than one person. The single exception is when a
+command is given but there is no object. In such cases, a
+special prefix pe- is used to give a command to several people.
+Examples of the imperative prefixes follow. Exclamation
+points in the translation indicate that it is a command.
+
+ylQong sleep! peQong (you plural) sleep!
+HIqIp hit me! ghoqIp hit us!
+34
+
+Page 17:
+VERBS
+yIqIp hit him/herlit! tIqIp hit them!
+
+To indicate action directed against oneself in an imperative
+verb (e.g., tell yourself), the suffix -egh oneself is used along
+with ylI- or pe- (see section 4.2.1).
+
+4.1.3 Notational conventions
+
+As a notational convention, prefixes indicating subject and
+object will be translated as subject—object; e.g., qa- I-you,
+DI- we-them. Imperative prefixes will be translated similarly,
+preceded by the word imperative: tl- imperative: you—them.
+
+Also, prefixes which can refer to male, female, inanimate,
+singular, and/or plural (e.g., vI- J—-him/her/it/them) will be
+translated correctly, but usually without giving all the options
+(e.g., I-him/her). This convention will also be used when
+translating verbs containing these prefixes; e.g., vllegh J see
+him/her.
+
+4.2. Verb suffixes
+
+There are nine types of verb suffixes.
+
+4.2.1. Type 1: Oneself/one another
+-egh oneself
+
+This suffix is used to indicate that the action described by
+the verb affects the performer of the action, the subject. It is
+translated by English self. When this suffix is used, the prefix
+set indicating ‘‘no object” must also be used.
+
+jlqIp’egh I hit myself (qIp hit)
+bIqIp’egh you hit yourself
+qIp’egh he/she hits himself/herself
+
+It is also possible to use this suffix with imperative verbs.
+As with nonimperatives, the prefix indicating “no object”
+must be used.
+
+ylja’’egh tell yourself! (ja’ tell)
+peja’’egh tell yourselves!
+
+35
+
+Page 18:
+THE KLINGON DICTIONARY
+
+-chuq one another
+
+This suffix is used only with plural subjects. It is translated
+each other or one another. The prefix set indicating ‘‘no
+object” is also used when this suffix is used.
+
+maqIpchuq we hit each other (qIp hit)
+SuqIpchuq you (plural) hit each other
+qIpchuq they hit each other
+peqIpchuq hit each other!
+
+4.2.2. Type 2: Volition/predisposition
+
+Suffixes of this type express how much choice the subject has
+about the action described or how predisposed the subject is
+to doing it.
+
+-nIS need
+
+vileghnIS [ need to see him/her (legh see)
+bISopnIS you need to eat (Sop eat)
+
+-qang willing
+
+Heghqang he/she is willing to die (Hegh die)
+qaja’qang I am willing to tell you (ja’ tell)
+
+-rup ready, prepared (referring to beings)
+
+Heghrup he/she is ready to die (Hegh die)
+qaleghrup I am ready to see you (legh see)
+nuja’rup they are prepared to tell us (ja’ tell)
+
+-beH ready, set up (referring to devices)
+
+pojbeH (the device) is set up to analyze it (poj analyze)
+labbeH (the device) is ready to transmit data (lab
+transmit data)
+
+There is, it should be noted, a verb ghuS which means to be
+prepared to launch or project (something). This verb never
+takes the suffix -rup. It is used primarily in reference to
+torpedoes—so much so that if the object is not specifically
+
+36
+
+Page 19:
+VERBS
+
+stated, and context does not dictate otherwise, it is always
+assumed to be torpedoes. Accordingly, both of the following
+sentences mean Be prepared to launch torpedoes! or Stand by
+on torpedoes!
+
+cha yIghuS (cha torpedoes)
+ylIghuS
+The verb ghuS can also be used in reference to, among
+
+other things, rockets, missiles, and various kinds of energy
+beams (which, like torpedoes, go from one point to another).
+It is also used to describe the action of pulling back the elastic
+band of a slingshot. In most other instances of preparedness,
+however, -rup is required.
+
+-vIp afraid
+choHoHvIp you are afraid to kill me (HoH kill)
+nuqIpvIp they are afraid to hit us (qIp hit)
+
+This suffix is rarely used with a prefix meaning J or we.
+Though it is grammatically correct, it is culturally taboo.
+
+4.2.3. Type 3: Change
+
+Suffixes of this type indicate that the action described by the
+verb involves a change of some kind from the state of affairs
+that existed before the action took place.
+
+-choH change in state, change in direction
+
+maDo’choH we are becoming lucky, we are undergoing
+a turn of luck (Do’ be lucky)
+ghoSchoH he/she is beginning to go (somewhere)
+(ghoS go)
+
+The implication of the second example is that he or she was
+going either nowhere or somewhere else sometime before the
+phrase was uttered. Note that the translation of this suffix
+may be English become or begin to.
+
+-qa’ resume
+
+Using this suffix implies that an action had been taking
+place, then it stopped, and then it began again.
+
+vInejqa’ I am resuming the search, I am searching for
+37
+
+Page 20:
+THE KLINGON DICTIONARY
+
+him/her again (nej search)
+
+4.2.4. Type 4: Cause
+-moH cause
+
+Adding this suffix to a verb indicates that the subject is
+causing a change of condition or causing a new condition to
+come into existence.
+
+tljwI’ghom vIchenmoH I form a boarding party
+(tIjwI’ghom boarding party,
+chen take form, take shape)
+
+This sentence might also be translated I cause a boarding
+party to be formed.
+
+HIQoymoH let me hear (something) (Qoy hear)
+
+More revealingly, this sentence could be translated cause me
+to hear (something). Note that this sentence would not be
+used in asking permission to hear; it is a direct command.
+
+Normally, the best English translation of a verb with -moH
+does not contain the word cause. For example, chenmoH
+he/she makes, creates could be translated he/she causes to take
+shape (chen take form, take shape), but this is an awkward
+English phrase.
+
+4.2.5. Type 5: Indefinite subject/ability
+
+The two suffixes of Type 5 have nothing much to do with each
+other except for both being Type 5. As a result, no verb
+occurs with both of these suffixes at the same time.
+
+-lu’ indefinite subject
+
+This suffix is used to indicate that the subject is unknown,
+indefinite, and/or general. Since the subject is always the
+same (that is, it is always unstated), the pronominal prefixes
+(section 4.1.1) are used in a different way. Those prefixes
+which normally indicate first- or second-person subject and
+
+38
+
+Page 21:
+VERBS
+
+third-person singular object (vI-, Da-, wI-, bo-) are used to
+indicate first- or second-person object. Thus, vI-, which
+normally means I do something to him/her, when in a verb
+with lw’? means someone/something does something to me.
+Similarly, the prefix lu-, which normally means they do
+something to him/her, becomes someone/something does
+something to them.
+
+Dagawlu’ someone/something remembers you
+(qaw remember)
+
+wlleghlu’ someone/something sees us (legh see)
+
+Soplu’ someone/something eats it (Sop eat)
+
+Verbs with -lu’ are often translated into the English passive
+voice.
+
+Dagqawlu’ you are remembered
+wileghlu’ we are seen
+Soplu’ it is eaten
+
+When used with the verb tu’ find, observe and a third-
+person singular subject pronoun (0), the resulting verb form
+tu’lu’ someone/something finds it is often translated by En-
+glish there is.
+
+naDev puqpu’ tu’lu’ there are children around here,
+someonelsomething finds children
+here (naDev hereabouts, puqpu’
+children)
+
+-laH_ can, able
+
+jIQonglaH J can sleep (Qong sleep)
+choleghlaH you can see me (legh see)
+nuQaw’laH he/she can destroy us (Qaw’ destroy)
+
+4.2.6. Type 6: Qualification
+
+Like Type 3 noun suffixes, these suffixes show how sure the
+speaker is about what is being said.
+
+39
+
+Page 22:
+THE KLINGON DICTIONARY
+-chu’ -clearly, perfectly
+
+jlyajchw’ I understand clearly (yaj understand)
+baHchw’ he/she fired (the torpedo) perfectly (baH fire [a
+torpedo))
+
+-bej certainly, undoubtedly
+
+chImbej it is undoubtedly empty (chIm be empty)
+nuSeHbej he/she is certainly controlling us(SeH con-
+trol)
+
+-law’ seemingly, apparently
+
+chImlaw’ it appears to be empty (chIm be empty)
+nuSeHlaw’ he/she seems to be controlling us (SeH con-
+trol)
+
+This suffix expresses any uncertainty on the speaker’s part
+and may even be thought of as meaning I think or I suspect.
+Thus, the previous two sentences could be translated I think
+it’s empty, I suspect that he/she is controlling us.
+
+4.2.7. Type 7: Aspect
+
+Klingon does not express tenses (past, present, future). These
+ideas come across from context or other words in the sentence
+(such as wa’leS tomorrow). The language does, however,
+indicate aspect: whether an action is completed or not yet
+completed, and whether an action is a single event or a
+continuing one.
+
+The absence of a Type 7 suffix usually means that the action
+is not completed and is not continuous (that is, it is not one of
+the things indicated by the Type 7 suffixes). Verbs with no
+Type 7 suffix are translated by the English simple present
+tense.
+
+Dalegh you see him/her (legh see)
+qaja’ I tell you (ja’ tell)
+
+When the context is appropriate, verbs without a Type 7
+suffix may be translated by the English future tense (will), but
+the real feeling of the Klingon is closer to English sentences
+such as We fly tomorrow at dawn, where the present-tense
+verb refers to an event in the future.
+
+40
+
+Page 23:
+VERBS
+-pu’ perfective
+
+This suffix indicates that an action is completed. It is often
+translated by the English present perfect (have done some-
+thing).
+
+Daleghpu’ you have seen it (legh see)
+vIneHpu’ I wanted them (neH want)
+qaja’pu’ I told you (ja’ tell)
+
+-ta’ accomplished, done
+
+This suffix is similar to -pu’, but it is used when an activity
+was deliberately undertaken, the implication being that some-
+one set out to do something and in fact did it. English
+translations seldom reveal the distinction.
+
+vISuqta’ I have acquired it (Suq get, acquire)
+luHoHta’ they have killed him/her (HoH kill)
+
+The second sentence above could not be used if the killing
+were the result of a general attack not intended to kill a
+specific person or if the killing were an accident. In such
+cases, -pu’ would be used:
+
+luHoHpw’ they have killed him/her
+
+The meaning of -ta’ can also be indicated syntactically.
+That is, instead of using the suffix -ta’, a special verbal
+construction can follow the verb which indicates the accom-
+plished action. This special verb is rIn be finished, accom-
+plished, and in this usage it always takes the suffix -taH
+continuous (see below) and the third-person pronominal
+prefix (0). The resulting construction, rIntaH, literally means
+it continues to be finished or it remains accomplished. It is
+used to indicate that the action denoted by the preceding verb
+is a fait accompli: it is done, and it cannot be undone.
+
+luHoH rIntaH they have killed him/her (HoH kill)
+vije’ rIntaH I have purchased it (je’ purchase)
+The English translations of rIntaH and -ta’ are usually the
+same. The notion of absolute finality implied by rIntaH
+seldom comes across.
+It should be noted that rIntaH is sometimes used for
+
+41
+
+Page 24:
+THE KLINGON DICTIONARY
+
+dramatic effect, even in cases when the action could be
+undone.
+
+-taH continuous
+This suffix indicates that an action is ongoing.
+
+nughoStaH it is approaching us (ghoS approach)
+ylIghoStaH steady on course!, maintain this course!
+(ghoS go, approach, proceed on a course)
+
+Both of the above sentences suggest a continuing activity.
+The meaning of -taH can be seen clearly by comparing the
+following two commands:
+
+yljun execute an evasive maneuver!
+yljuntaH take evasive action!
+
+In the first case, the maneuver is to be executed once only. In
+the second, a series of evasive maneuvers is to be executed
+—the action is to be continuous.
+
+-I’ in progress
+
+This suffix is similar to -taH continuous in that it indicates
+that an activity is ongoing. Unlike -taH, however, -II’ implies
+that the activity has a known goal or a definite stopping point.
+In other words, it suggests that progress is being made toward
+that goal.
+
+cholll’ it is getting closer
+(chol get close, come near)
+
+This word would be used for, i.e., a missile approaching a
+target, when it is known that the missile has been aimed at
+that target. If a missile is getting closer, but its intended
+destination is not known, choltaH (with -taH continuous)
+would be more appropriate.
+
+vill’ I am transmitting (the data)
+(I? transmit data to a place)
+
+This word implies that data are in the process of being
+transmitted, but that there is a finite amount of data, so there
+will be a definite end to the transmission. The fact that the
+verb I’ and the suffix -II’ are identical in sound is purely
+coincidental, so far as can be determined.
+
+42
+
+Page 25:
+VERBS
+
+The suffix -taH continuous can be used whether there is a
+known goal or not. -II’, on the other hand, can be used only
+when there is an implied goal. It is possible to consider -II’ a
+continuous counterpart of -ta’, and -taH a continuous coun-
+terpart of -pu’.
+
+4.2.8. Type 8: Honorific
+
+-neS honorific
+
+There is but one suffix in this category. It is used to express
+extreme politeness or deference. It is used only in addressing
+a superior, someone of higher rank in the Klingon social,
+political, or military hierarchy. It is never required.
+
+qaleghneS I am honored to see you (legh see)
+HIja’neS do me the honor of telling me (ja’ tell)
+
+This suffix is used rather infrequently by Klingons.
+
+4.2.9. Type 9: Syntactic markers
+
+Similar to Type 5 noun suffixes (section 3.3.5), these verb
+suffixes have to do with the verb’s role in the sentence. The
+first six suffixes will be noted briefly here, but illustrated more
+completely in section 6.2.
+
+-DI’ as soon as, when
+
+DaSeHDI’ as soon as you control it (SeH control)
+qara’DI’ as soon as I command you (ra’ command)
+
+-chugh if
+
+DaneHchugh if you want them (neH want)
+choja’chugh if you tell me (ja’ tell)
+
+-pa’ before
+
+choja’pa’ before you tell me (ja’ tell)
+qara’pa’ before I command you (ra’ command)
+
+-vIS while
+This suffix is always used along with the Type 7 suffix
+
+-taH continuous.
+43
+
+Page 26:
+THE KLINGON DICTIONARY
+SutihtaHvIS while they are negotiating (Sutlh negotiate)
+bIQongtaHvIS while you are sleeping (Qong sleep)
+-bogh which
+
+This is the relative-clause marker. It is described in section
+6.2.3.
+
+-meH for
+This marks purpose clauses. See section 6.2.4.
+~’a’ interrogative
+
+This suffix indicates that the sentence is a yes/no question;
+that is, a question which can be answered “‘yes” or “‘no.” (See
+also section 6.4.).
+
+cholegh’a’ do you see me? (legh see)
+yaj’a’ does he/she understand? (yaj understand )
+
+Questions of other types require special question words
+(section 6.4).
+
+-wI’ one who does, thing which does
+
+This is the suffix described earlier (section 3.2.2) which
+turns verbs into nouns.
+
+So’wI’ cloaking device (So’ cloak, hide)
+baHwI’ gunner (baH fire [a torpedo})
+joqwI’ flag (joq flutter, wave)
+
+4.2.10. Relative ordering of the suffixes
+
+As with nouns, when more than one suffix is used with a verb,
+they must occur in the correct order, according to their type.
+No more than one suffix of each type may occur at a time. No
+instances have been found of a verb followed by nine suffixes,
+but it is theoretically possible. A few examples should suffice
+to show ordering of the suffixes.
+
+nuHotlhpu’’a’ have they scanned us?
+nu- (prefix) they—us
+Hotlh (verb) scan
+
+44
+
+Page 27:
+VERBS
+-pu’ 0 perfective
+~a’ (9) interrogative
+
+Qawvreghpu’ he/she destroyed himselflherself
+(prefix) he/she
+
+Oaw’ (verb) destroy
+
+“egh (1) oneself
+
+-pu’ (7) perfective
+
+wichenmoHlaH we can create it
+
+wI- (prefix) we-it
+
+chen (verb) take form
+
+-moH (4) cause
+
+-laH (5) can, able
+Daqawlu’taH you are to be remembered
+Da- (prefix) you—him/her
+qaw (verb) remember
+-lw’ (5) indefinite subject
+-taH (7) continuous
+vitlhapnISpu’ J needed to take him/her
+
+vI- (prefix) I-himlher
+
+tlhap (verb) take
+
+-nIS (2) need
+
+-pu’ (7) perfective
+
+HeghqangmoHlu’ pu’ it made him/her willing to die
+0 (prefix) he/she—-himlher
+
+Hegh (verb) die
+-qang (2) willing
+-moH (4) cause
+-lw’ (5) indefinite subject
+-pu’ (7) perfective
+maghoSchoHmoHneS’a’ may we execute a course (to some
+place)?
+ma- (prefix) we
+ghoS (verb) proceed on a course
+-choH (3) change
+-moH (4) cause
+-neS (8) honorific
+~’a’ (9) interrogative
+
+Page 28:
+THE KLINGON DICTIONARY
+4.3. Rovers
+
+There is one additional set of verb suffixes which Klingon
+grammarians call lengwI’mey rovers (from leng travel, roam,
+rove, -wl’ thing which does, -mey plural). Rovers are verb
+suffixes which do not have a fixed position in relation to the
+other suffixes following a verb but, instead, can come just
+about anywhere except following a Type 9 suffix. Their
+position is determined by the meaning intended. There are
+two types of rovers: the negative and the emphatic.
+
+-be’ not’
+This is the general suffix of negation, translated as English
+not. It follows the concept being negated.
+vilo’laHbe’ they are useless to me, I cannot use them
+
+vI- (prefix) I-them
+lo’ (verb) use
+
+-laH (5) can, able
+-be’ (rover) not
+
+jlSaHbe’ J don’t care (which of several courses of
+action is followed)
+
+jl- (prefix) I
+SaH (verb) care, be concerned about
+-be’ (rover) not
+qay’be’ it’s not a problem, no problem (exclamation)
+(prefix) it
+qay’ (verb) be a problem, be a hassle
+-be’ (rover) not
+
+The roving nature of -be’ is best illustrated in the following
+set of words.
+
+choHoHvIp you are afraid to kill me
+choHoHvIpbe’ you are not afraid to kill me
+choHoHbe’vIp you are afraid to not kill me
+
+cho- (prefix) you-me
+HoH (verb) kill
+
+-vIp (2) afraid
+-be’ (rover) not
+
+In the second word, the negated notion is afraid (that is, not
+afraid), and -be’ follows -vIp. In the third word, the negated
+notion is Kill (that is, not kill), so -be’ follows HoH.
+
+46
+
+Page 29:
+VERBS
+The suffix -be’ cannot be used with imperative verbs. For
+imperatives, the following suffix is required.
+-Qo’ don’t!, won’t
+This negative suffix is used in imperatives and to denote
+refusal.
+
+ylja’Qo’ don’t tell him/her!
+yl- (prefix) imperative: you-him/her
+ja’ (verb) tell
+-Qo’ (rover) don’t!
+
+choja’Qo’chugh if you won't tell me, if you refuse to tell me
+
+cho- (prefix)
+
+ja’ (verb)
+-Qo’ (rover)
+-chugh (9)
+
+you-—me
+tell
+won't
+
+if
+
+HIHoHvIpQo’ don’t be afraid to kill me!
+HI- (prefix) imperative: you-me
+HoH (verb) kill
+-vIp (2) afraid
+-Qo’ (rover) don’t!
+
+Unlike -be’, the position of -Qo’ does not change: it occurs
+last, unless followed by a Type 9 suffix. Nevertheless, it is
+considered a rover because it is the imperative counterpart to
+-be’.
+
+-Ha’ undo
+
+This negative suffix implies not merely that something is
+not done (as does -be’), but that there is a change of state:
+something that was previously done is now undone. For
+convenience, it will here be translated as undo, but it is closer
+to the English prefixes mis-, de-, dis- (as in misunderstand,
+demystify, disentangle). It is also used if something is done
+wrongly. Unlike -be’, -Ha’ can be used in imperatives.
+
+chenHa’moHlaH it can destroy them
+0 (prefix) it-them
+chen (verb) take form
+
+47
+
+Page 30:
+THE KLINGON DICTIONARY
+
+-Ha’ (rover) undo
+-moH (4) cause
+-laH (5) can, able
+
+This verb actually means something like it can cause them to
+undo their form.
+
+yIchu’Ha’ disengage it! (e.g., cloaking device)
+
+yl- (prefix) imperative: you-it
+chu’ (verb) engage, activate
+-Ha’ (rover) undo
+bIjatlhHa’chugh if you say the wrong thing
+bI- (prefix) you
+jatlh (verb) say
+-Ha’ (rover) undo
+-chugh (9) if
+
+This shows how -Ha’ can be used in the sense of wrongly. The
+word might be translated as if you misspeak. Using -be’ (that
+is, bIjatlhbe’chugh) would mean if you don’t speak.
+
+Do’Ha’ it is unfortunate
+
+0 (prefix) it
+-Do’ (verb) be lucky, fortunate
+-Ha’ (rover) undo
+
+The use of -Ha’ in this sentence suggests a turn of luck from
+good to bad.
+
+It is interesting that -Ha’ always occurs right after the verb.
+It is not known why Klingon grammarians insist on calling it a
+rover. It was felt best not to argue with Klingon tradition,
+however, so -Ha’ is here classified as a rover.
+
+-qu’ emphatic
+
+This suffix emphasizes or affirms whatever immediately
+precedes it.
+
+yIHaghqu’ study him/her well
+
+yl- (prefix) imperative: you-him/her
+Hagh (verb) study
+-qu’ (rover) emphatic
+
+nuQaw’qu’be’ they have not finished us off
+nu- (prefix) they-us
+
+48
+
+Page 31:
+VERBS
+
+Qaw’ (verb) destroy
+-qu’ (rover) emphatic
+-be’ (rover) not
+
+The roving nature of -qu’ can be seen in the following set:
+
+plHoHvIpbe’qu’ we are NOT afraid to kill you
+pIHoHvIpqu’be’ we are not AFRAID to kill you
+pIHoHqu’vIpbe’ we are not afraid to KILL you
+
+pI- (prefix) we-you
+HoH (verb) kill
+
+-vip (2) afraid
+-be’ (rover) not
+
+-qu’ (rover) emphatic
+
+The first word above might be used after an enemy chal-
+lenged the bravery of the speaker. The second might be
+followed by an explanation such as, ‘“We are not willing to kill
+you because we require your services.” The third word would
+be used to emphasize killing, as opposed to some other form
+of punishment.
+
+The rover -qu’ also follows verbs when they are used
+adjectivally (section 4.4).
+
+4.4 Adjectives
+
+There are no adjectives as such in Klingon. Those notions
+expressed as adjectives in English (such as big, tired) are
+expressed by verbs in Klingon (be big, be tired). A verb
+expressing a state or quality can be used immediately follow-
+ing a noun to modify that noun.
+
+puq Doy’ tired child
+puq child
+Doy’ be tired
+Dujmey tIn big ships
+Dujmey ships, vessels
+tIn be big
+The rover -qu’ emphatic (section 4.3) may follow verbs
+functioning adjectivally. In this usage, it is usually translated
+very.
+Dujmey tInqu’ very big ships
+49
+
+Page 32:
+THE KLINGON DICTIONARY
+
+wanl’ ramqu’ a very unimportant event
+wanl’ event, occurrence
+ram be trivial, unimportant
+
+If a Type 5 noun suffix is used (section 3.3.5), it follows the
+verb, which, when used to modify the noun in this way, can
+have no other suffix except the rover -qu’ emphatic. The Type
+5 noun suffix follows -qu’.
+
+veng tInDaq in the big city
+veng city
+tIn be big
+-Daq locative
+
+veng tInqu’Daq in the very big city
+
+50
+
+Page 33:
+5. OTHER KINDS OF WORDS
+OO
+
+By far the bulk of Klingon words are nouns and verbs. There
+are a few others which, probably as an expedient, Klingon
+grammarians lump together in a group called chuvymey
+leftovers. It is possible to classify the chuvmey some-
+what.
+
+5.1. Pronouns
+
+In addition to possessive suffixes for nouns (section 3.3.4) and
+pronominal prefixes for verbs (section 4.1), there is a set of
+nine pronouns which are independent words.
+
+jIH [, me maH we, us
+
+soH you tihIH you (plural)
+ghaH he/she, him/her chaH they, them
+’oH it bIH they, them
+*e’ that
+
+net that
+
+The pronoun chaH they is used when it refers to a group of
+beings capable of using language; otherwise, bIH they is used.
+The pronouns ’e’ and net are used only in special sentence
+constructions (see section 6.2.5).
+
+There is no grammatical gender in Klingon. Third-person
+
+51
+
+Page 34:
+THE KLINGON DICTIONARY
+
+singular pronouns can be translated he or she as context
+dictates.
+
+Pronouns may be used as nouns, but only for emphasis or
+added clarity. They are not required. Thus, the following sets
+of sentences are all grammatically correct.
+
+yaS vilegh jIH I see the officers.
+yaS vilegh
+
+jiH mulegh yaS The officer sees me.
+mulegh yaS
+
+ghaH vilegh jIH I see himlher.
+ghaH vilegh
+vilegh jlH
+vilegh
+(yaS officer, vIlegh I see him/her, mulegh he/she sees me)
+
+The final two sentences (vIlegh jIH, vIlegh) are in fact
+ambiguous. They could equally well mean I see them. (The
+verb prefix vI- is either /—him/her or I-them.) If context does
+not make it clear which meaning is intended, pronouns can be
+used:
+
+ghaH vilegh / see him/her.
+chaH vilegh I see them.
+
+Pronouns are not used in possessive constructions in the
+way nouns are; instead, the set of possessive noun suffixes is
+used (section 3.3.4).
+
+Finally, pronouns can be used as verbs, in the sense of “I
+
+m,” etc. (See section 6.3).
+
+5.2. Numbers
+
+Klingon originally had a ternary number system; that is, one
+based on three. Counting proceeded as follows: 1, 2, 3;3+1,
+342, 3+3; 2X3+1, 2X3+2, 2x3+3; 3x3+1, 3x3+2,
+3x3+3; and then it got complicated. In accordance with
+the more accepted practice, the Klingon Empire sometime
+back adopted a decimal number system, one based on ten.
+
+52
+
+Page 35:
+OTHER KINDS OF WORDS
+
+Though no one knows for sure, it is likely that this change
+was made more out of concern for understanding the scien-
+tific data of other civilizations than out of a spirit of cooper-
+ation.
+
+The Klingon numbers are:
+
+1 wa’ 6 jav
+
+2 cha’ 7 Soch
+
+3 wej 8 chorgh
+4 loS 9 Hut
+
+5 vagh 10 wa’maH
+
+Higher numbers are formed by adding special number-
+forming elements to the basic set of numbers (1-9). Thus,
+wa’maH ten consists of wa’ one plus the number-forming
+element for ten, maH. Counting continues as follows:
+
+11 wa’maH wa’ (that is, ten and one)
+12 wa’maH cha’ (that is, ten and two)
+etc.
+
+Higher numbers are based on maH ten, vatlh hundred, and
+SaD or SanID thousand. Both SaD and SanID are equally
+correct for thousand, and both are used with roughly equal
+frequency. It is not known why this number alone has two
+variants.
+
+20 cha’maH (that is, two tens)
+
+30 wejmaH (that is, three tens)
+etc.
+
+100 wa’ vatlh (that is, one hundred)
+200 cha’ vatlh (that is, two hundreds)
+etc.
+
+1,000 wa’SaD or wa’SanID (that is, one thousand)
+
+2,000 cha’SaD or cha’SanID (that is, two thousands)
+etc.
+
+Numbers are combined as in English:
+
+5,347 vaghSad wejvatlh loSmaH Soch or
+53
+
+Page 36:
+THE KLINGON DICTIONARY
+
+vaghSanID wejvatlh loSmaH Soch
+604 javvatih loS
+31 wejmaH wa’
+
+Some of the number-forming elements for higher numbers
+are:
+
+ten thousand netlh
+hundred thousand bIp
+million uy’
+
+Zero is pagh.
+
+Numbers are used as nouns. As such, they may stand alone
+as subjects or objects or they may modify another noun.
+
+mulegh cha’ Two (of them) see me.
+(mulegh they see me, cha’ two)
+
+wa’ yIHoH Kill one (of them)!
+(wa’ one, yIHoH kill him/her!)
+
+The preceding sentence is grammatically correct even without
+the wa’ because the prefix yI- indicates a singular object. The
+wa’, therefore, is used for emphasis only.
+
+Numbers used as modifiers precede the noun they modify.
+
+loS puqpu’ or loS puq four children
+vaghmaH yuQmey or vaghmaH yuQ fifty planets
+
+The plural suffixes (-pu’, -mey) are not necessary when a
+number is used.
+
+When a number is used for numbering, as opposed to
+counting, it follows the noun. Compare:
+
+DuS wa’ torpedo tube number I
+wa’ DuS one torpedo tube
+
+Ordinal numbers (first, second, etc.) are formed by adding
+-DIch to the numbers.
+
+wa’DIch first
+cha’DIch second
+HutDIch ninth
+
+Ordinal numbers follow the noun.
+meb cha’DIch second guest
+54
+
+Page 37:
+OTHER KINDS OF WORDS
+Adding -logh to a number gives the notion of repetitions.
+
+wa’logh once
+cha’logh twice
+Hutlogh nine times
+
+These numbers function in the sentence as adverbials (section
+5.4).
+5.3. Conjunctions
+
+Conjunctions are of two types: those that join nouns together
+and those that join sentences together. The meanings of the
+two types of conjunctions, however, are the same:
+
+JOINING NOUNS JOINING SENTENCES
+je ej and
+joq qoj and/or
+ghap pagh either/or
+
+The conjunctions joining nouns come after the final noun.
+DeS ’uS je an arm and a leg
+DeS ’uS joq an arm ora leg or both
+DeS ’uS ghap either an arm or a leg (but not both)
+
+The noun conjunction je has an additional function: when it
+follows a verb, it means also, too.
+
+qaleghpu’ je I also saw you, I saw you too
+
+As in English, the meaning of such sentences is ambiguous:
+I and others saw you or I saw you and others. The exact
+meaning is determined by context.
+
+In addition to the three listed above, there is one other
+sentence conjunction:
+
+’ach but, nevertheless, however, even so
+
+This word is sometimes shortened to ’a.
+The conjunctions joining sentences occur between the
+sentences they join. For illustrations, see section 6.2.1.
+
+5.4. Adverbials
+
+These words usually come at the beginning of a sentence and
+describe the manner of the activity.
+
+55
+
+Page 38:
+THE KLINGON DICTIONARY
+
+batlh with honor, in an honored fashion
+bong by accident, accidentally, not intentionally
+chaq perhaps
+
+chIch on purpose, purposely
+
+DaH now
+
+Do’ with luck, luckily
+
+1oQ slightly, a little bit
+
+nom fast, quickly
+
+not never
+
+pay’ suddenly
+
+plj often
+
+Qlt slowly
+
+reH always
+
+rut sometimes
+
+tugh soon
+
+vaj thus, in that case, so, accordingly, then
+wej not yet
+
+Examples:
+
+bong yaS vIHoHpuw’ / accidentally killed the officer.
+(yaS officer, vViHoHpu’ I killed
+him/her)
+batlh Daqawlu’taH You will be remembered with honor.
+(Daqawlu’taH somebody continues to
+remember you)
+vaj Daleghpu’ Then you have seen it.
+(Daleghpu’ you have seen it)
+wej vilegh I don’t see him/her yet
+(vIlegh I see him/her)
+
+One word fits somewhat awkwardly into this category:
+
+neH only, merely, just
+
+Unlike the other adverbials, it follows the verb which it
+modifies. The semantic effect is one of trivializing the action.
+
+qama’ vIiqIppu’ neH J merely hit the prisoner.
+(gama’ prisoner, vIqIppu’ I hit him/
+her,
+Duj yIQotlh neH Just disable the ship!
+(Duj ship, vessel, yIQotlh disable it!)
+
+56
+
+Page 39:
+OTHER KINDS OF WORDS
+
+The use of neH in the preceding sentence implies that the ship
+is to be disabled, but not damaged further.
+
+Also unlike the other adverbials, neH can follow a noun. In
+such cases, it means only, alone.
+
+yaS neH only the officer, the officer alone
+jonta’ neH only the engine
+
+Adverbials sometimes occur alone, functioning more or
+less as exclamations (section 5.5). For example:
+
+nom Move fast! Move quickly!
+wej Don’t do it yet!
+tugh Hurry up!
+
+5.5 Exclamations
+These expressions stand as sentences in their own right.
+
+ghobe’ No. (response to a question)
+
+Ha’ Let’s go! Come on!
+
+Hlja’ or HISlaH Yes. (response to a question)
+lw’ or luq Yes. Okay. I will.
+
+maj Good. (expressing satisfaction)
+majQa’ Very good. Well done.
+
+nuqneH What do you want? (greeting)
+pltlh Done!
+
+Qo’ No. I won't. I refuse.
+
+SuH or Su’ Ready!
+
+toH Well! So!
+
+wejpuH Charming. (used only ironically)
+’eH Ready!
+
+HIja’ and HISlaH yes seem to be used interchangeably.
+
+SuH, Su’, and ’eH all mean that the speaker is about to give
+a command. They are comparable to the “Ready!”’ at the
+beginning of a race: ‘“‘Ready! Set! Go!” SuH and Su’, but not
+’eH, can also be used to indicate that the speaker is ready to
+do something or that arrangements have been made for
+something to happen. Some speakers of Klingon pronounce
+SuH as if it were SSS, almost like the English expression for
+“be quiet”: shhh!
+
+pitih is used for It’s done! I’ve done it! I’ve finished! All
+done! etc.
+
+57
+
+Page 40:
+THE KLINGON DICTIONARY
+
+The expression toH is roughly equivalent to English aha!
+Also included in the category of exclamations are Klingon
+curses. Only three such curses have been noted to date.
+
+QV’yaH *?/#@
+ghuy’cha’ *@3$%
+Qu’vathh #*@/
+
+5.6. Names and address
+
+Klingon names are frequently mispronounced by non-
+Klingons. Furthermore, when written in the writing systems
+of other languages, they usually end up with spellings which
+only suggest their true pronunciation. For example, the
+Klingon sound tlh at the beginning of a word is almost always
+written kl by English speakers, presumably because the sound
+tl cannot occur at the beginning of an English word. Similarly,
+Klingon Q is often rendered kr, and Klingon q always comes
+out k.
+
+The following is a list of a few Klingon names along with
+their usual English spellings.
+
+mara Mara
+matih Maltz
+qeng Kang
+qeylIS Kahless
+golotih Koloth
+qor Kor
+qoreQ Korax
+QaS Kras
+Qel Krell
+Qugh Kruge
+torgh Torg
+valQIS Valkris
+
+Names may be used in direct address (that is, calling
+somebody by name) at the beginning or end of the sentence.
+Other words in direct address (such as qaH sir, joHwl’ my
+lord) are used similarly.
+
+torgh HIghoS Torg, come here! (HIghoS pro-
+ceed toward me!)
+lu’ qaH Yes, sir!
+
+58
+
+Page 41:
+6. SYNTAX
+ee
+
+As in any language, Klingon sentences range from the very
+simple and straightforward to the very complex and convo-
+luted. What follows here are the mere basics of Klingon
+sentence structure. This information should provide a good
+foundation so that students of Klingon can converse properly,
+though not eloquently, while learning more about the lan-
+guage.
+
+6.1. Basic sentences
+
+The basic structure of a Klingon sentence is:
+OBJECT-VERB-SUBJECT
+
+This is the reverse of the order in English, so care should be
+taken to avoid interpreting sentences backward. The subject
+is the person or thing doing the action described by the verb;
+the object is the recipient of that action.
+
+The importance of word order can be seen by comparing
+the following sentences.
+
+puq legh yaS The officer sees the child.
+yaS legh puq The child sees the officer.
+
+In both sentences, the words are identical: puq child, legh
+59
+
+Page 42:
+THE KLINGON DICTIONARY
+
+he/she sees him/her, yaS officer. The only way to know who is
+seeing whom is by the order of the words in the sentence. The
+verb legh is preceded by the prefix 0 he/she—him/her.
+
+When the subject and/or object is first or second person,
+the prefix on the verb must be the proper one.
+
+puq vilegh jIH J see the child.
+(vIlegh I see him/her)
+jIH mulegh puq The child sees me.
+(mulegh he/she sees me)
+
+Actually, the first- and second-nerson pronouns are seldom
+used in sentences of this type (though they can, as here, be
+used for emphasis), so the following sentences illustrate more
+commonly occurring sentence types.
+
+pug vilegh I see the child.
+mulegh puq The child sees me.
+
+Imperative sentences (commands) follow the same rules.
+
+So’wI’ yIchu’ Engage the cloaking device!
+(So’wI’ cloaking device,
+ylchu’ engage it!)
+DoS yIbuS Concentrate on the target!
+(DoS target, yIbuS concentrate on it!)
+yaSpu’ tlHoH Kill the officers!
+(yaSpuw’ officers, tI1HoH kill them!)
+
+Any noun in the sentence indicating something other than
+subject or object comes first, before the object noun. Such
+nouns usually end in a Type 5 noun suffix (section 3.3.5).
+
+pa’Daq yaS vileghpu’ J saw the officer in the room.
+(pa’Daq in the room,
+yaS officer, vileghpu’ J saw him/
+her)
+
+Other examples of this construction are given in section
+3.3.5.
+6.2. Complex sentences
+
+A few of the more common types of more elaborate Klingon
+sentences will be illustrated.
+
+60
+
+Page 43:
+SYNTAX
+6.2.1. Compound sentences
+
+Two sentences may be joined together to form a longer
+compound sentence. Both sentences must be able to stand
+alone as properly formed sentences. When combined, they
+simply come one after the other, joined by a conjunction (see
+section 5.3).
+
+jlSoptaH ’ej QongtaH J am eating, and he/she is
+sleeping.
+jlSoptaH ’ach QongtaH I am eating, but he/she is
+sleeping.
+
+bISoptaH qoj bItlhutlhtaH You are eating and/or
+you are drinking.
+bISoptaH pagh bitlhutlhtaH You are either eating or else
+you are drinking.
+
+When the subject of both of the joined sentences is
+the same, the English translation may be reduced to a less
+choppy form, but Klingon does not allow this shortening.
+The pronominal prefix must be used with both verbs.
+Thus, the final two sentences above may be translated
+You are eating and/or drinking; You are either eating or
+drinking.
+
+When a noun (as opposed to simply a verbal prefix)
+indicates subject and/or object, there are some options in
+Klingon. In its fullest form, a Klingon sentence repeats the
+noun:
+
+yaS legh pug ’ej yaS qIp puq
+(yaS officer, puq child, legh he/she sees
+him/her, qIp he/she hits him/her)
+The child sees the officer and the child hits
+the officer.
+
+or
+The child sees the officer and hits the officer.
+
+or
+The child sees and hits the officer.
+
+It is possible, however, to use pronouns rather than nouns in
+the second of the joined sentences.
+
+61
+
+Page 44:
+THE KLINGON DICTIONARY
+
+yaS legh puq ’ej ghaH qIp ghaH (ghaH he/she)
+The child sees the officer and he/she hits him/her.
+or
+The child sees the officer and hits him/her.
+
+If the context is clear, even the pronoun may be left out.
+
+yaS vilegh ’ej viqIp (vI- [-him/her)
+I see the officer and I hit him/her.
+
+or
+
+I see the officer and hit him/her.
+or
+
+I see and hit the officer.
+
+6.2.2. Subordinate clauses
+
+Klingon verbs ending in Type 9 suffixes (other than -’a’
+interrogative and -wl’ one who does, one which does) always
+occur in sentences with another verb. Hence, they are verbs
+in subordinate clauses.
+
+cha yIbaH qara’DI’
+or qara’DI’ cha yIbaH Fire the torpedoes at my com-
+mand!
+
+The two parts of this sentence are cha ylIbaH fire the
+torpedoes! and qara’DI’ when I command you or as soon as I
+command you. -DI’ is a Type 9 suffix meaning as soon as,
+when, so qara’DI’ must occur as part of a larger sentence.
+Note that the order of the two parts of the sentence is
+variable.
+
+A few further examples should make the use of subordinate
+clauses clear.
+
+bljatlhHa’chugh qaHoH
+or qaHoH bljatlhHa’chugh If you say the wrong thing,
+I will kill you.
+(bijatIhHa’chugh if you
+misspeak, qaHoH I kill
+you)
+
+Note that although the English translation uses the word will,
+there is no marker for future in Klingon. The unsuffixed verb
+HoH kill is neutral as to time: since the person being
+
+62
+
+Page 45:
+SYNTAX
+
+addressed is being given a chance to speak, that person must
+still be alive. Thus, the killing must take place in the future.
+
+SutlhtaHvIS chaH DIHIvpu’
+
+or DIHIvpu’ SutlhtaHvIS chaH While they were
+negotiating we
+attacked them.
+(SutihtaHvIS while
+they are negotiating,
+chaH they, DIHIvpu’
+we attacked them)
+
+The notion of were negotiating, rather than are negotiating,
+comes from the suffix -pu’ perfective attached to the verb HIv
+attack. A translation such as While they are negotiating we
+attacked them makes little sense in English and misrepresents
+the meaning of the Klingon sentence.
+
+6.2.3. Relative clauses
+
+Relative clauses are translated into English as phrases begin-
+ning with who, which, where, and, most commonly, that. Like
+adjectives, they describe nouns: the dog which is running, the
+cat that is sleeping, the child who is playing, the restaurant
+where we ate. The noun modified by a relative clause is the
+head noun.
+
+In Klingon, the verb in the relative clause ends with the
+Type 9 suffix -bogh, which will, for convenience, be translated
+which.
+
+Whether the head noun follows or precedes the relative
+clause depends on its relationship to that clause. Compare the
+following:
+
+qIppu’bogh yaS officer who hit him/her
+yaS qIppu’bogh officer whom he/she hit
+
+In both phrases, the relative clause is qIppu’bogh (qIp hit,
+-pu’ perfective, -bogh which), and the head noun is yaS
+officer. In the first phrase, yaS is the subject of the verb qIp
+(the officer is doing the hitting), so it follows qIppu’bogh, just
+as all subjects follow the verb. In the second phrase, yaS is the
+
+63
+
+Page 46:
+THE KLINGON DICTIONARY
+
+object (the officer is getting hit), so it precedes qIppu’bogh,
+just as all objects precede the verb.
+
+The whole construction (relative clause plus head noun), as
+a unit, is used in a sentence as a noun. Accordingly, this
+construction follows or precedes the verb of the sentence,
+depending on whether it is the subject or object.
+
+qIppu’bogh yaS vilegh I see the officer who hit
+himlher.
+
+The entire relative construction qIppu’bogh yaS officer who
+hit him/her is the object of the verb vIlegh I see him/her, so it
+precedes the verb.
+
+mulegh qIppu’bogh yaS The officer who hit him/her
+sees me.
+
+Here, qIppu’bogh yaS is the subject of the verb mulegh he/she
+sees me, so it follows the verb.
+
+This pattern is also followed when the head noun is the
+object of the verb in the relative clause, such as yaS
+qIppu’bogh officer whom he/she hit.
+
+yaS qIppu’bogh vilegh I see the officer whom he/she
+hit.
+mulegh yaS qIppu’bogh The officer whom he/she hit
+sees me.
+
+In the English translation, the relative pronouns (that,
+which, etc.) may often be omitted: I see the officer he/she hit,
+the officer he/she hit sees me. In Klingon, however, -bogh is
+mandatory.
+
+6.2.4. Purpose clauses
+
+If an action is being done in order to accomplish something,
+or for the purpose of accomplishing something, the verb
+describing what is to be accomplished ends with the Type 9
+suffix -meH, which may be translated for, for the purpose of,
+in order to. The purpose clause always precedes the noun or
+verb whose purpose it is describing.
+
+ja’chuqmeH rojHom neH jaghla’ The enemy commander
+wishes a truce (in order)
+to confer.
+
+64
+
+Page 47:
+SYNTAX
+
+The phrase ja’chuqmeH rojHom a truce (in order) to confer is
+the object of the verb neH he/she wants it; the subject is
+jaghla’ enemy commander. The object is a noun rojHom truce
+preceded by the purpose clause ja’chuqmeH for the purpose
+of conferring or in order to confer. (The verb is made up of ja’
+tell, -chuq each other; thus, confer is tell each other.)
+
+jagh luHoHmeH jagh lunejtaH They are searching for
+the enemy in order to
+kill him/her.
+
+Here the purpose clause is jagh luHoHmeH in order for them
+to kill the enemy, which is made up of the object noun jagh
+enemy preceding the verb HoHmeH in order for them to kill
+him/her (lu- they-him/her, HoH kill, -meH for). It describes
+the purpose of the verb lunejtaH they are searching for
+him/her (lu- they—him/her, nej seek, search for, -taH continu-
+ous). Note that, just as in compound sentences, the object
+noun jagh enemy occurs before each verb for which it is the
+object. Thus, somewhat more literally, the sentence may be
+translated In order to kill the enemy, they are searching for the
+enemy.
+
+Furthermore, just as in compound sentences, the second of
+two identical nouns may be replaced by a pronoun or, if the
+context is clear, left out altogether.
+
+jagh luHoHmeH ghaH lunejtaH
+
+jagh luHoHmeH lunejtaH They are searching for the
+enemy in order to kill
+himlher.
+
+6.2.5. Sentences as objects
+
+Klingon has two special pronouns, ’e’ and net, which refer to
+the previous sentence as a whole. They are used primarily,
+though not exclusively, with verbs of thinking or observation
+(such as know, see). They are always treated as the object
+of the verb, and the verb always takes a prefix indicating
+a third-person singular object. What is a single sentence
+in English is often two sentences in Klingon. net is used
+only under special circumstances (see page 66), but ’e’ is
+common. Several examples should make the use of ’e’
+clear.
+
+65
+
+Page 48:
+THE KLINGON DICTIONARY
+qama’pu’ DIHoH ’e’ luSov They know we kill prisoners.
+
+This sentence is actually two: (1) qama’pu’ DIHoH We kill
+prisoners (qama’puw’ prisoners, DIHoH we kill them); (2) ’e’
+luSov They know that (’e’ that, luSov they know it). The
+pronoun ’e’ refers to the previous sentence, We kill prisoners.
+
+yaS qIppu’ ’e’ vilegh I saw him/her hit the officers.
+
+The two sentences here are: (1) yaS qIppu’ He/she hit the
+officer; (2) ’e? vilegh I see that (vMlegh I see it). The construc-
+tion might equally well be translated as I saw that he/she hit
+the officer. Note that the verb in the second sentence, vIlegh J
+see it, is neutral as to time. The past tense of the translation
+(I saw .. . ) comes from the verb in the first sentence, qIppu’
+he/she hit him/her (-pu’ perfective). In complex sentences of
+this type, the second verb never takes an aspect suffix (section
+4.2.7).
+
+When the verb of the second sentence has a third-person
+subject (that is, the pronominal prefix is 0) but the intended
+meaning is one or someone, rather than he, she, it, or they, net
+is used instead of ’e’.
+
+qama’pu’ DIHoH net Sov One knows we kill prisoners.
+
+As above, the first sentence here is qama’pu’ DIHoH We kill
+prisoners. The second sentence is net Sov One knows that.
+The full construction implies that it is common knowledge
+that the group to which the speaker belongs kills prisoners.
+
+Qu’vaD II’ net tu’bej One certainly finds it useful for
+the mission.
+
+The first part of this example is Qu’vaD II’ It is useful for the
+mission (Qu’vaD for the mission, WW it is useful). The second
+part is net tu’bej One certainly finds that or One certainly
+observes that. The full construction might also be translated
+One will certainly observe that it is useful to the mission. Note
+that although the word will makes a more flowing translation,
+there is nothing in the Klingon sentence indicating future
+tense.
+
+When the verb of the second sentence is neH want, neither
+66
+
+Page 49:
+SYNTAX
+
+%e’ nor net is used, but the construction is otherwise identical
+to that just described.
+
+jlQong vIneH I want to sleep.
+(jIQong I sleep, vIneH I want it)
+
+qalegh vIneH / want to see you.
+(qalegh J see you, vIneH I want it)
+
+Dalegh vIneH I want you to see him/her.
+(Dalegh you see him/her, vIneH I want it)
+
+qama’pu’ vijonta’ vIneH J wanted to capture prisoners.
+
+In this final example, the first part is qama’pu’ vIjonta’
+captured prisoners (qama’pw’ prisoners, vIjonta’ I captured
+them). Note once again that the aspect marker (in this case,
+-ta’ accomplished) goes with the first verb only; the second
+verb, vIneH J want it, is neutral as to time. The past tense of
+the translation (I wanted . . .) comes from the aspect marker
+on the first verb.
+
+Similarly, with verbs of saying (say, tell, ask, etc.), ’e’ and
+net are not used. The two phrases simply follow one another,
+in either order.
+
+qaja’ pu’ HiqaghQo’
+or HIgaghQo’ qaja’pu’ J told you not to interrupt me.
+This is literally I told you, “Don’t interrupt me!” or “Don’t
+interrupt me” I told you (qaja’pu’ I told you, HIqaghQo’ don’t
+interrupt me!). An aspect marker (here, -pu’ perfective) may
+always be attached to the verb of saying, regardless of
+whether it is the first or second verb.
+
+Finally, the use of rIntaH to indicate that an action is
+accomplished (section 4.2.7) is another example of the two-
+verb (or two-sentence) construction.
+
+6.3. “To be”
+
+There is no verb corresponding to English to be in Klingon.
+On the other hand, all pronouns (section 5.1) can be used as
+verbs, in the sense of J am, you are, etc.
+
+tlhIngan jIH / am a Klingon.
+67
+
+Page 50:
+THE KLINGON DICTIONARY
+
+yaS SoH You are an officer.
+puqpu’ chaH They are children.
+
+The pronoun always follows the noun.
+
+Similarly, there is no verb corresponding to to be in the
+sense of ‘‘to be at a place.” Again, the pronouns are used,
+followed, where appropriate, by verbal suffixes.
+
+pa’wljDaq jIHtaH J am in my quarters.
+(pa’wljDaq in my room, jIH I,
+-taH continuous)
+
+In the above examples, the subjects are pronouns. If the
+subject is a noun, it follows the third-person pronoun (ghaH
+he/she, ’oH it, chaH they, bIH they) and takes the -’e’ topic
+suffix (see section 3.3.5).
+
+puqpu’ chaH qama’pw’ ’e’ The prisoners are children.
+pa’DajDaq ghaHtaH la’’e’ The commander is in his
+quarters.
+
+These sentences might also be translated As for the prisoners,
+they are children; As for the commander, he is in his quarters.
+
+6.4. Questions
+
+There are two types of questions: those which may be
+answered “yes” or ‘“‘no,” and those which require explana-
+tions as answers.
+Yes/no questions are formed with the Type 9 suffix -’a’
+added to the verb. Examples are given in section 4.2.9.
+Appropriate answers to yes/no questions are:
+
+HIja’ or HISlaH yes
+ghobe’ no
+
+The other type of question contains a question word:
+
+chay’ how?
+
+ghorgh when?
+nuq what?
+nuqDaq where?
+
+68
+
+Page 51:
+SYNTAX
+
+qatlh why?
+’ar how many? how much?
+*Iv who?
+
+For ’Iv who? and nuq what? the question word fits into the
+sentence in the position that would be occupied by the
+answer. For example:
+
+yaS legh ’Iv Who sees the officer?
+*Iv legh yaS Whom does the officer see?
+
+In the first question, it is the subject which is being asked
+about, so Iv who? goes in the subject position, following the
+verb legh he/she sees him/her. In the second case, the object is
+being questioned, so the question word goes in the object
+position, before the verb.
+
+Similarly with nuq what?:
+
+Duj ghoStaH nuq What is coming toward the ship?
+(Duj ship, vessel, ghoStaH it is
+proceeding toward it)
+
+nuq legh yaS What does the officer see?
+
+Both ’Iv and nuq are treated as nouns as far as the
+pronominal prefixes are concerned. That is, they are consid-
+ered third person.
+
+nughoStaH nuq What is coming toward us? (nughoStaH it
+is proceeding toward us)
+nuq Dalegh What do you see? (Dalegh you see it)
+
+The word for where?, nuqDagq, is actually nuq what?
+followed by the suffix -Daq Jocative (see section 3.3.5). As
+would any locative phrase (see section 6.1), it comes at the
+beginning of the sentence.
+
+nuqDaq So’taH yaS Where is the officer hiding?
+(So’taH he/she is hiding)
+
+Three other question words likewise occur at the beginning
+of the sentence.
+
+69
+
+Page 52:
+THE KLINGON DICTIONARY
+
+ghorgh Haw’ pw’ yaS When did the officer flee?
+(Haw’ pu’ he/she has fled)
+
+qatlh Haw’pu’ yaS Why did the officer flee?
+
+chay’ Haw’pu’ yaS How did the officer flee?
+
+Note also:
+chay’ jura’ What are your orders?
+
+This is actually chay’ how?, jura’ you command us; thus,
+How do you command us?
+
+The question word chay’ how? may be used as a one-word
+sentence meaning How did this happen? What happened?
+What the—?
+
+Finally, ’ar how many? how much? follows the noun to
+which it refers. It can never follow a noun with a plural suffix
+(-pu’, -mey, -Du’; see section 3.3.2).
+
+Haw’pu’ yaS ’ar How many officers fled?
+(Haw’ pu’ they fied, yaS officer)
+nin ’ar wighaj How much fuel do we have?
+(nIn fuel, wighaj we have it)
+
+6.5. Commands
+
+Commands are given with appropriate imperative prefixes.
+See sections 4.1.2, 4.3.
+
+6.6. Comparatives and superlatives
+
+The idea of something being more or greater than something
+else (comparative) is expressed by means of a construction
+which can be represented by the following formula:
+
+A Q law’ B Q puS
+
+In this formula, A and B are the two things being compared
+and Q is the quality which is being measured. The two
+Klingon words in the formula are law’ be many and puS be
+few. Thus, it says A’s Q is many, B’s Q is few or A has more Q
+than B has or A is Q-er than B.
+
+Any verb expressing a quality or condition may fit into the
+Q slot.
+
+70
+
+Page 53:
+SYNTAX
+la’ jaq law’ yaS jaq puS The commander is bolder than
+the officer.
+(la’ commander, jaq be bold, yaS
+officer)
+To express the superlative, that something is the most or
+the greatest of all, the noun Hoch all is used in the B position:
+
+la’ jaq law’ Hoch jaq puS The commander is boldest
+of all.
+
+In comparative and superlative constructions, the verb of
+quality (jaq be bold in the sentences above) must be said
+twice.
+
+71
+
